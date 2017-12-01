@@ -1,3 +1,3 @@
 ```
-whomai #1
+whomai #
 ```
