@@ -1,3 +1,3 @@
 ```
-whomai # returns your username
+who # returns your username
 ```
